@@ -1604,6 +1604,7 @@
 		position: relative;
 		top: -0.25em;
 	}
+	p span.invisible { display: none; }
 
 	header h3 + p {
 		font-size: 1.1em;
