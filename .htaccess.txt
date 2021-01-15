@@ -1,0 +1,1 @@
+RedirectPermanent /fdo.html https://www.issekinicho.fr/editions/produit/la-fete-des-ombres-1/
