@@ -1,0 +1,5 @@
+Type de champ : A
+Sous domaine : thecoralcave.com
+Cible : 178.32.167.243
+
+thecoralcave.com.	0	A	178.32.167.243
